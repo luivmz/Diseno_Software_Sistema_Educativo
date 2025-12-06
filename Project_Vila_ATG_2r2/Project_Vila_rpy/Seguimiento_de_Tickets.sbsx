@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>110.0.1</version>
+	<lang>C++</lang>
+	<BuildNo>202408271326</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID a4780226-5118-4fe9-9332-a1a0d336152d</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Seguimiento_de_Tickets</_name>
+			<_modifiedTimeWeak type="a">6.28.2021::22:37:29</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Modelo_Analisis.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+					<_hname type="a">Arquitectura de Analisis</_hname>
+					<_hid type="a">GUID 884e2245-cba4-4914-829a-20161adfa381</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">6.28.2021::22:37:29</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">6.28.2021::22:37:29</weakCGTime>
+			<strongCGTime type="a">6.28.2021::22:37:29</strongCGTime>
+			<_defaultComposite type="s">GUID 1bdc3f46-582b-4a86-a109-63f78d9d97b5</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID b690fdfc-2c5f-4755-b941-9dd06caeb7da</value>
+				<value>GUID 1bdc3f46-582b-4a86-a109-63f78d9d97b5</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IDependency type="e">
+			<_id type="a">GUID b690fdfc-2c5f-4755-b941-9dd06caeb7da</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Gestion_Recursos_Incidencias</_name>
+			<_modifiedTimeWeak type="a">6.28.2021::22:37:29</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.28.2021::22:37:29</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\Gestion_Recursos_Incidencias.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+					<_hname type="a">Gestion_Recursos_Incidencias</_hname>
+					<_hid type="a">GUID 43f33690-77d1-4722-ae9a-d75021e7cb25</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID a4780226-5118-4fe9-9332-a1a0d336152d</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IClass type="e">
+			<_id type="a">GUID 1bdc3f46-582b-4a86-a109-63f78d9d97b5</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

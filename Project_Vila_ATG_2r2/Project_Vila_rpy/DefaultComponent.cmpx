@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>110.0.1</version>
+	<lang>C++</lang>
+	<BuildNo>202408271326</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<IComponent type="e">
+			<_id type="a">GUID e15e32d9-6809-4957-99e6-20f49643ceb6</_id>
+			<_myState type="a">139264</_myState>
+			<_name type="a">DefaultComponent</_name>
+			<_modifiedTimeWeak type="a">7.28.2021::5:11:2</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::5:1:30</_modifiedTime>
+			<m_buildType type="a">Executable</m_buildType>
+			<m_configActive type="r">
+				<ICodeGenConfigInfoHandle type="e">
+					<_hm2Class type="a">ICodeGenConfigInfo</_hm2Class>
+					<_hid type="a">GUID c66db2d6-16c5-4c6b-ac59-c2026784c530</_hid>
+				</ICodeGenConfigInfoHandle>
+			</m_configActive>
+			<HandlesInMe type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IProfile</_hm2Class>
+							<_hfilename type="a">$OMROOT\Settings\UMLPerspectives\UMLPerspectives.sbs</_hfilename>
+							<_hname type="a">UMLPerspectives</_hname>
+							<_hid type="a">GUID d24d9192-bc4f-48a2-a4e1-fdaebbdfa6b6</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IProfile</_hm2Class>
+							<_hfilename type="a">C:\Users\estudianteUC\Downloads\profiles-20250826T160135Z-1-001\profiles\BusinessModeling.sbsx</_hfilename>
+							<_hname type="a">BusinessModeling</_hname>
+							<_hid type="a">GUID 018fd50e-cdfb-4d1c-8d00-c6e75ba697d6</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\Default.sbsx</_hfilename>
+							<_hname type="a">Default</_hname>
+							<_hid type="a">GUID 99009933-a958-494c-bb08-0e3a03e40e45</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\MCUM.sbsx</_hfilename>
+							<_hname type="a">MCUM</_hname>
+							<_hid type="a">GUID e94280f0-050c-4343-b960-31e07fcd12d6</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\MAN.sbsx</_hfilename>
+							<_hname type="a">MAN</_hname>
+							<_hid type="a">GUID bd87312e-685d-4cb4-b664-7a46c34d6ef3</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\MCUS.sbsx</_hfilename>
+							<_hname type="a">MCUS</_hname>
+							<_hid type="a">GUID 93b71ce2-9f9d-4ee6-a9f3-1f808c367bde</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\VentaArtefactosElectrodomesticos.sbsx</_hfilename>
+							<_hsubsystem type="a">MCUS</_hsubsystem>
+							<_hname type="a">VentaArtefactosElectrodomesticos</_hname>
+							<_hid type="a">GUID 7103eef8-c055-4bc9-9a5c-4f25f31aa549</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\Reutilizables.sbsx</_hfilename>
+							<_hsubsystem type="a">MCUS</_hsubsystem>
+							<_hname type="a">Reutilizables</_hname>
+							<_hid type="a">GUID 2558f735-55b8-4009-88b6-c03934be27cb</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\Seguridad.sbsx</_hfilename>
+							<_hsubsystem type="a">MCUS</_hsubsystem>
+							<_hname type="a">Seguridad</_hname>
+							<_hid type="a">GUID ad24d30f-7c51-44e1-98be-6469fd515551</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\Paquete_Requisitos.sbsx</_hfilename>
+							<_hname type="a">Paquete_Requisitos</_hname>
+							<_hid type="a">GUID c7b47e4b-0d68-486f-ad9a-0b0a407378df</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\Requisitos.sbsx</_hfilename>
+							<_hname type="a">Requisitos</_hname>
+							<_hid type="a">GUID e0436a5f-234c-467f-99cf-65e4924a70fd</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</HandlesInMe>
+			<VariationPoints type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</VariationPoints>
+			<SelectedVariants type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</SelectedVariants>
+			<weakCGTime type="a">7.28.2021::5:11:2</weakCGTime>
+			<strongCGTime type="a">7.28.2021::5:11:2</strongCGTime>
+			<AggregatesList type="e">
+				<value>GUID 276853bc-5656-49f4-8b1d-4a73bd22b39b</value>
+				<value>GUID c66db2d6-16c5-4c6b-ac59-c2026784c530</value>
+			</AggregatesList>
+		</IComponent>
+		<IFolder type="e">
+			<_id type="a">GUID 276853bc-5656-49f4-8b1d-4a73bd22b39b</_id>
+			<_myState type="a">73728</_myState>
+			<_name type="a">Files</_name>
+			<_modifiedTimeWeak type="a">7.28.2021::5:1:30</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::5:1:30</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		<ICodeGenConfigInfo type="e">
+			<_id type="a">GUID c66db2d6-16c5-4c6b-ac59-c2026784c530</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DefaultConfig</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::5:1:30</_modifiedTime>
+			<_scopeType type="a">Explicit</_scopeType>
+			<_instrumentation type="a">Animation</_instrumentation>
+			<_timeModel type="a">RealTime</_timeModel>
+			<m_generateActors type="a">1</m_generateActors>
+			<_statechartImplementation type="a">Flat</_statechartImplementation>
+			<_checksList type="a">0 ,</_checksList>
+			<_checksList_Default type="a">1</_checksList_Default>
+			<ScopeElements type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</ScopeElements>
+			<InitialInstances type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</InitialInstances>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<AnimScopeElements type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</AnimScopeElements>
+			<m_allInAnimScope type="a">1</m_allInAnimScope>
+			<m_generateUsecases type="a">0</m_generateUsecases>
+			<AggregatesList type="e">
+				<value>GUID 3f9071a7-92c2-46ed-8652-c775cc01c26f</value>
+			</AggregatesList>
+		</ICodeGenConfigInfo>
+		<IFolder type="e">
+			<_id type="a">GUID 3f9071a7-92c2-46ed-8652-c775cc01c26f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DefaultConfig</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::5:1:30</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

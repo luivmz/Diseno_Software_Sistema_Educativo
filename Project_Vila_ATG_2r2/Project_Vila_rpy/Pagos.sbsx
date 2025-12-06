@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>110.0.1</version>
+	<lang>C++</lang>
+	<BuildNo>202408271326</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID b008f3c3-9f19-485d-8972-38767bbe4967</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Pagos</_name>
+			<_modifiedTimeWeak type="a">6.28.2021::22:28:49</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Modelo_Analisis.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+					<_hname type="a">Arquitectura de Analisis</_hname>
+					<_hid type="a">GUID 884e2245-cba4-4914-829a-20161adfa381</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">6.28.2021::22:29:8</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">6.28.2021::22:28:49</weakCGTime>
+			<strongCGTime type="a">6.28.2021::22:28:49</strongCGTime>
+			<_defaultComposite type="s">GUID 424204b6-0b9c-42f1-a45e-9d4dffce201c</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 463baa32-9f00-401f-b8a5-e9a0949a8b1b</value>
+				<value>GUID 424204b6-0b9c-42f1-a45e-9d4dffce201c</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IDependency type="e">
+			<_id type="a">GUID 463baa32-9f00-401f-b8a5-e9a0949a8b1b</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Gestion_Financiera_Pagos</_name>
+			<_modifiedTimeWeak type="a">6.28.2021::22:28:49</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.28.2021::22:28:49</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\Gestion_Financiera_Pagos.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+					<_hname type="a">Gestion_Financiera_Pagos</_hname>
+					<_hid type="a">GUID ba1c283b-b197-4b9d-8d7b-ee3223f631c2</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID b008f3c3-9f19-485d-8972-38767bbe4967</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IClass type="e">
+			<_id type="a">GUID 424204b6-0b9c-42f1-a45e-9d4dffce201c</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

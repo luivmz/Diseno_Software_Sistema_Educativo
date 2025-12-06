@@ -1,0 +1,1166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>110.0.1</version>
+	<lang>*</lang>
+	<BuildNo>202408271326</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<CGEMdiWorkspace type="e">
+			<stubList type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</stubList>
+			<isLoadOnDemand type="a">0</isLoadOnDemand>
+			<myViewsWithID type="c">
+				<IRPYRawContainer type="e">
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">5</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">27</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU01_Iniciar_sesion</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del caso de Uso Iniciar Sesi%F3n</_hname>
+								<_hid type="a">GUID 5f8dade4-5f83-401e-95ed-cd3f424bc0f1</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1942 1282 </_DownRight>
+						<m_nDiagramIndex type="a">32</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU02_Cerrar_sesi%F3n</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del caso de Uso Cerrar Sesi%F3n</_hname>
+								<_hid type="a">GUID 0bf3419b-e6b4-483c-8e05-1a7759a4690d</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">31</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU03_Registrar_Usuario</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Registrar Usuario</_hname>
+								<_hid type="a">GUID 4e99291a-57d9-4bb1-bbce-0945b48c336b</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">30</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU04_Asignar_Rol</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Asignar Rol</_hname>
+								<_hid type="a">GUID b028624b-7aa5-4246-be9d-e0a5a2df9614</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">29</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU05_Actualizar_Perfil</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Actualizar Perfil</_hname>
+								<_hid type="a">GUID 1e07d45c-3d3c-49a1-a8ac-80111035d59d</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">28</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU06_Recuperar_Contrase%F1a</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Recuperar Contrase%F1a</_hname>
+								<_hid type="a">GUID 17581a65-affd-4540-9807-4606b8a473b0</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">27</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU07_Consultar_Historial_de_Accesos</_hclass>
+								<_hname type="a">Diagrana de Realizaci%F3n del Caso de Uso Consultar Historial de Accesos</_hname>
+								<_hid type="a">GUID 8ff6dd73-6fbc-4d4a-bb17-1c7d7f7086fa</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">26</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU08_Crear_Curso</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Crear Curso</_hname>
+								<_hid type="a">GUID ea9d1e9e-b24f-42e3-9cac-e2f94e76d0c9</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">25</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU09_Gestionar_M%F3dulos</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Gestionar m%F3dulos educativos</_hname>
+								<_hid type="a">GUID 530d65b3-0fe8-42d6-8251-c3191e9f8243</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">24</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU10_Crear_Editar_Contenido</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Crear o Editar contenido</_hname>
+								<_hid type="a">GUID cd0fad4b-4c3d-499f-bb1c-ee36ac818044</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">23</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU11_Eliminar_Contenido</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Eliminar Contenido</_hname>
+								<_hid type="a">GUID 36191811-1828-4a7a-9ea5-e626218c45e2</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">22</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU12_Clasificar_Contenido</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Clasificar contenido por categor%EDas</_hname>
+								<_hid type="a">GUID 6ca5a80d-c2d8-4a2c-b58e-ee7522ac76c6</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">21</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU13_Consultar_Contenido</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Consultar contenido acad%E9mico</_hname>
+								<_hid type="a">GUID 25637978-753d-4c1a-80c8-d462e2c1294c</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">20</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU14_Registrar_Progreso</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Registrar progreso del alumno</_hname>
+								<_hid type="a">GUID c7e86320-5be9-4ce1-9fc1-a55292a1088a</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">19</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU15_Consultar_Avance</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Consultar avance acad%E9mico</_hname>
+								<_hid type="a">GUID 1cbd2bc0-d62f-481d-ab21-9c0d75e5d43a</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">18</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU16_Crear_Evaluaci%F3n</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Crear evaluaci%F3n</_hname>
+								<_hid type="a">GUID 20242700-4568-48bd-ac69-2729c5d5d102</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">17</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU17_Crear_Editar_Preguntas</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Crear editar preguntas</_hname>
+								<_hid type="a">GUID 1dd34e4f-ffb9-449f-9b2d-942920de5ab5</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">16</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU18_Gestionar_Opciones</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Gestionar opciones de respuesta</_hname>
+								<_hid type="a">GUID 2dec7d70-14d1-456d-b76a-658fdede43d1</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">15</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU19_Realizar_Evaluaci%F3n</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Realizar evaluaci%F3n</_hname>
+								<_hid type="a">GUID 670a022c-6365-4a78-8437-2368c9b97e45</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">14</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU20_Enviar_Respuestas</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Enviar respuestas</_hname>
+								<_hid type="a">GUID d52f994f-89e1-4e09-8efd-80a52f540554</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">13</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU21_Calificar_Evaluaci%F3n</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Calificar evaluaci%F3n</_hname>
+								<_hid type="a">GUID b19df880-a50d-4265-b0fc-5da84b3cbd1d</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">12</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU22_Consultar_Calificaci%F3n</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Consultar calificaci%F3n</_hname>
+								<_hid type="a">GUID 81db928e-1f6e-437a-aeea-e460ad656037</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">11</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU23_Registrar_Deuda</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Registrar deuda del alumno</_hname>
+								<_hid type="a">GUID 888e941b-73c7-41ff-8208-8a2bc874791f</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">10</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU24_Realizar_Pago</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Realizar pago</_hname>
+								<_hid type="a">GUID 861bbb96-a5d7-4df7-b0e8-e853c23264f6</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">9</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU25_Validar_Pago</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Validar pago</_hname>
+								<_hid type="a">GUID c9c70067-4ff8-4978-bc89-5aceb6bdc6f3</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">8</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU26_Generar_Comprobante</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Generar comprobante</_hname>
+								<_hid type="a">GUID 56707b0f-86de-47bb-8f30-578930f312a6</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">7</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU27_Consultar_Historial_de_Pagos</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Consultar historial de pagos</_hname>
+								<_hid type="a">GUID c4f446ef-0f11-4aff-8f9a-a5eb579bd004</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">6</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU28_Registrar_Recurso</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Registrar recurso</_hname>
+								<_hid type="a">GUID c111cdcb-6eea-4c3d-91f0-222605a9b801</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">5</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU29_Gestionar_Inventario</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Gestionar inventario</_hname>
+								<_hid type="a">GUID c8680143-cee4-476a-9515-e39045a7534d</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">4</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU30_Reservar_Recurso</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Reservar recurso</_hname>
+								<_hid type="a">GUID d4b30355-b5d4-4770-b0c1-5fd5f2d91f8a</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU31_Aprobar_Rechazar_Reserva</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Aprobar o Rechazar reserva</_hname>
+								<_hid type="a">GUID acc79ae6-7afe-4258-be80-a8e601e3fd47</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU32_Reportar_Incidencia</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Reportar incidencia</_hname>
+								<_hid type="a">GUID 50a92332-1c1b-42ab-8683-3115d3bc3422</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">1782</m_nRight>
+								<m_nBottom type="a">1207</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Vila_rpy\Modelo_Analisis.sbsx</_hfilename>
+								<_hsubsystem type="a">Modelo_Analisis</_hsubsystem>
+								<_hclass type="a">CU33_Gestionar_Incidencias</_hclass>
+								<_hname type="a">Diagrama de Realizaci%F3n del Caso de Uso Gestionar incidencias</_hname>
+								<_hid type="a">GUID 6f3d97ab-28f4-4061-aae0-d71b3793fec4</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1756 1159 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<m_bIsActiveView type="a">1</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+				</IRPYRawContainer>
+			</myViewsWithID>
+			<_fullName type="a">C:\Users\user\Downloads\Project_Vila_ATG_2r2\Project_Vila</_fullName>
+			<_selectedPerspective type="a">Advanced</_selectedPerspective>
+			<m_SearchScopeList type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</m_SearchScopeList>
+			<bUsingBrowserCustomView type="a">1</bUsingBrowserCustomView>
+			<bApplyOnDiagrams type="a">0</bApplyOnDiagrams>
+			<liCustomViewIDs type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</liCustomViewIDs>
+			<mapOslcRmCollections type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</mapOslcRmCollections>
+			<favoritesItem type="e">
+				<generation type="a">0</generation>
+				<name type="a">Favorites</name>
+				<idOrFolder type="a">folder-expanded</idOrFolder>
+			</favoritesItem>
+			
+			<favoritesItem type="e">
+				<generation type="a">1</generation>
+				<name type="a">Diagrama de Clases de CUN Gesti%F3n de Usuarios</name>
+				<idOrFolder type="a">#startHnd# INObjectHandle 
+	- _m2Class = &quot;IDiagram&quot;#hndSem#
+	- _filename = &quot;C:\\Users\\user\\Downloads\\Project_Vila_ATG_2r2\\Project_Vila_rpy\\MAN.sbsx&quot;#hndSem#
+	- _subsystem = &quot;MAN&quot;#hndSem#
+	- _name = &quot;Diagrama de Clases de CUN Gesti\%F3n de Usuarios&quot;#hndSem#
+	- _id = GUID ff175cfe-f851-4a0a-87fa-f0eff2cc7425#hndSem#
+#endHnd#</idOrFolder>
+			</favoritesItem>
+			
+			<favoritesItem type="e">
+				<generation type="a">1</generation>
+				<name type="a">Contenidos_Educativos</name>
+				<idOrFolder type="a">#startHnd# INObjectHandle 
+	- _m2Class = &quot;ISubsystem&quot;#hndSem#
+	- _filename = &quot;C:\\Users\\user\\Downloads\\Project_Vila_ATG_2r2\\Project_Vila_rpy\\Contenidos_Educativos.sbsx&quot;#hndSem#
+	- _subsystem = &quot;Modelo_Analisis&quot;#hndSem#
+	- _name = &quot;Contenidos_Educativos&quot;#hndSem#
+	- _id = GUID 7f748691-7339-4467-9b63-942036fe2885#hndSem#
+#endHnd#</idOrFolder>
+			</favoritesItem>
+			
+		</CGEMdiWorkspace>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
